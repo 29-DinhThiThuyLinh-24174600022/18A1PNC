@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CongTy>
+    <TenCongTy>Công ty TNHH ABC</TenCongTy>
+    <GiamDoc>
+        <Ten>Nguyễn Văn A</Ten>
+    </GiamDoc>
+    <DiaChi>01 Lê Duẩn, Hà Nội</DiaChi>
+    <DienThoai>0865248304</DienThoai>
+    <MaSoThue>0312345678</MaSoThue>
+</CongTy>

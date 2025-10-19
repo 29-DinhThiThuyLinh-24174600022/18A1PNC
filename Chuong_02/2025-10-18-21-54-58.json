@@ -1,0 +1,12 @@
+[
+    {
+        "loai": "tien",
+        "so_tien": "40000000",
+        "ghi_chu": "luong"
+    },
+    {
+        "loai": "vang",
+        "so_tien": "4",
+        "ghi_chu": "tich tru"
+    }
+]
