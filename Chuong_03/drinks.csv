@@ -1,0 +1,11 @@
+country,continent,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol
+USA,North America,229,87,50,9.8
+France,Europe,127,99,312,12.3
+Germany,Europe,346,175,175,11.5
+Italy,Europe,85,123,218,12.9
+Spain,Europe,193,101,250,12.1
+UK,Europe,245,89,101,11.7
+China,Asia,40,40,35,5.1
+India,Asia,18,15,12,4.3
+Brazil,South America,245,90,20,7.0
+Australia,Oceania,261,72,85,10.0
